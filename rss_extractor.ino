@@ -3,8 +3,8 @@
 #include <HTTPClient.h>
 
 
-const char* ssid     = "Freebox-1BF387";
-const char* password = "reformator*-adaquemus2-vineias-saporata29";
+const char* ssid     = "";
+const char* password = "";
  
 
 String mp3_from_rss ( String rssUrl) {
